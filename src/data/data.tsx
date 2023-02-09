@@ -176,13 +176,15 @@ export const testimonial: TestimonialSection = {
       //image: hubwarImage,
     },
     {
-      name: 'MJ (Merry Jane Music)',
-      text: 'I caught your set tonight and just wanted to say you killed it! Vibes were on point!',
-    },
-    {
       name: 'Abel (BakedUp Co-Owner and Artist Manager)',
       text: 'Matttttt, great set BITTTTTCCCHHHHHH!',
     },
+    /*
+    {
+      name: 'MJ (Merry Jane Music)',
+      text: 'I caught your set tonight and just wanted to say you killed it! Vibes were on point!',
+    },
+    */
   ],
 };
 
