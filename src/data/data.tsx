@@ -79,7 +79,7 @@ export const heroData: Hero = {
     <>
     <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
       US-based <strong className="text-stone-100">electronic music producer</strong> and DJ, 
-      focusing on <strong className="text-stone-100">Deep Dubstep, Freeform Bass, Bassline House</strong> music.
+      focusing on <strong className="text-stone-100">Deep Dubstep, Freeform Bass, and Bass House</strong> music.
     </p>
       <p className="prose-sm text-stone-200 sm:prose-base lg:prose-lg">
         Music released on <a href="https://open.spotify.com/user/subbassbro">Spotify</a>, <a href="https://soundcloud.com/nghthwk">SoundCloud</a>, 
@@ -110,9 +110,9 @@ export const aboutData: About = {
   description: `Hacker by day, DJ by night, NGHTHWK (Matt) has been taking the underground scene by storm! 
   Being a Bass Capital baby from Denver, Colorado and now living in Austin, Texas, Matt has a deep understanding 
   of the electronic music scene and how to get the audience going. His passion for music started with the early 
-  works of UKF, Circus One, and Mau5Trap Records, falling in love with Flux Pavilion's remix of Gold Dust and 
+  works of UKF, Circus One, and Mau5Trap, falling in love with Flux Pavilion's remix of Gold Dust and 
   Deadmau5's Strobe. Overtime, Matt's music taste has evolved, following more of the works released on Wakaan, 
-  Deep Dark and Dangerous, and Deadbeats Records. As a artist, Matt is known for his crowd control abilities, 
+  Deep Dark and Dangerous, and Deadbeats labels. As a artist, Matt is known for his crowd control abilities, 
   being able to move a crowd as needed. His genre versitility also plays into this, allowing him to engage a 
   diverse audience and prime them for other artists to follow!`,
   aboutItems: [
@@ -178,6 +178,30 @@ export const testimonial: TestimonialSection = {
     {
       name: 'Abel (BakedUp Co-Owner and Artist Manager)',
       text: 'Matttttt, great set BITTTTTCCCHHHHHH!',
+    },
+    {
+      name: 'Katrina-Marie Devayness (Central Florida and Miami Artist Promoter)',
+      text: 'Matt, Loved seeing you play at Deadrocks! You legitimately did better then most of the openers for day 2. Can\'t wait to see you play a festival!',
+    },
+    {
+      name: 'Beth (Artist Photographer)',
+      text: 'LOVED your set tonight!',
+    },
+    {
+      name: 'Jacoby (Fan)',
+      text: 'You had a dope ass set bro, def will be seeing you again😎',
+    },
+    {
+      name: 'Emma (Fan)',
+      text: 'Hey I was at your show last night and it was awesome!! definitly the best tunnel show me and my friends have been to!',
+    },
+    {
+      name: 'Luke (Fan)',
+      text: 'Yoo your set last night was crazyyy. ⛽',
+    },
+    {
+      name: 'Rew (Fan)',
+      text: 'You were the vibe FR bro',
     },
     /*
     {
