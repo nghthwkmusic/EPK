@@ -11,6 +11,10 @@ import porfolioImage1 from '../images/portfolio/portfolio-1.jpg';
 import porfolioImage2 from '../images/portfolio/portfolio-2.jpg';
 import porfolioImage3 from '../images/portfolio/portfolio-3.jpg';
 import porfolioImage4 from '../images/portfolio/portfolio-4.jpg';
+import porfolioImage5 from '../images/portfolio/portfolio-5.png';
+import porfolioImage6 from '../images/portfolio/portfolio-6.png';
+import porfolioImage7 from '../images/portfolio/portfolio-7.png';
+
 import profilepic from '../images/nghthwk.jpg';
 import testimonialImage from '../images/crowd.webp'; //TODO: credit @tijsvl on Unsplash
 //import hubwarImage from '../images/testimonials/hubwar.jpg'
@@ -145,6 +149,18 @@ export const portfolioItems: PortfolioItem[] = [
     image: porfolioImage1,
   },
   {
+    title: 'Drop It Like It\'s Clozee',
+    description: 'Feburary 23rd, 2023',
+    url: 'https://on.soundcloud.com/4X5qC',
+    image: porfolioImage5,
+  },
+  {
+    title: 'Baked Up: B2B Showcase',
+    description: 'March 10th, 2023 @ Gnar Bar',
+    url: 'https://www.instagram.com/p/Co-tjRDPGZL/',
+    image: porfolioImage6,
+  },
+  {
     title: 'DEF CON 30: The Afters',
     description: 'August 11th, 2022 @ Def Con 2022',
     url: 'https://soundcloud.com/nghthwk/def-con-30',
@@ -159,8 +175,14 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'Sundaze Fundaze',
     description: 'January 29th, 2023 @ Fourth and Co',
-    url: 'https://bakedupcreations.com/',
+    url: 'https://www.instagram.com/p/Cn-Cg0bPTvA/',
     image: porfolioImage4,
+  },
+  {
+    title: 'NGHTHWK: Summer Sessions',
+    description: 'June 4th, 2022 @ Lou Neff Point',
+    url: 'https://www.instagram.com/p/CeURcLnPgNr/',
+    image: porfolioImage7,
   },
 ];
 
